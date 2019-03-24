@@ -24,4 +24,7 @@
 
 第十一课 word2vec讲解和使用，cnn解决文本分类问题。  
 
-第十二课 语音处理以及使用LSTM构建语音分类模型。  
+第十二课 语音处理以及使用LSTM构建语音分类模型。 
+
+
+视频课程学习地址：[深度学习框架Tensorflow学习与应用](https://www.bilibili.com/video/av20542427?from=search&seid=9331726526434614782)
